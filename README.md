@@ -1,4 +1,5 @@
-## Hi there 👋
+# Thiago Nicolau
+## Hello, Devs!!
 
 <!--
 **tnicolau-dev/tnicolau-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
