@@ -10,7 +10,7 @@
 >>
 >## Tools and Technologies
 >>
->><div>
+>><div style="width: 100%">
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -25,10 +25,10 @@
 >>  <a href="https://www.instagram.com/thiagoanjos_01/" target="_blank">
 >>    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 >>  </a>
->>  <a href = "mailto:contato@seu-usuário-aqui">
+>>  <a href = "mailto:tnicolau.dev@gmail.com">
 >>    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 >>  </a>
->>  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+>>  <a href="https://www.linkedin.com/in/thiago-nicolau-dev/" target="_blank">
 >>    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 >>  </a>   
 >></div>
