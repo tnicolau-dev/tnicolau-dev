@@ -10,7 +10,7 @@
 >>
 >## Tools and Technologies
 >>
->><div style="width: 100%">
+>><div>
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
 >>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -38,6 +38,5 @@
 ><div>
 >  <a href="https://github.com/tnicolau-dev">
 >    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnicolau-dev&layout=compact&langs_count=7&theme=dracula"/>
->    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tnicolau-dev&show_icons=true&theme=dracula&include_all_commits=true count_private=true"/>
 >  </a>
 ></div>
